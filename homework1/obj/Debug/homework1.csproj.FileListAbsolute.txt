@@ -1,0 +1,7 @@
+D:\temp\CSharphomework\CSharpHomework\homework1\bin\Debug\homework1.exe.config
+D:\temp\CSharphomework\CSharpHomework\homework1\bin\Debug\homework1.exe
+D:\temp\CSharphomework\CSharpHomework\homework1\bin\Debug\homework1.pdb
+D:\temp\CSharphomework\CSharpHomework\homework1\obj\Debug\homework1.csprojResolveAssemblyReference.cache
+D:\temp\CSharphomework\CSharpHomework\homework1\obj\Debug\homework1.csproj.CoreCompileInputs.cache
+D:\temp\CSharphomework\CSharpHomework\homework1\obj\Debug\homework1.exe
+D:\temp\CSharphomework\CSharpHomework\homework1\obj\Debug\homework1.pdb
